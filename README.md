@@ -48,7 +48,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,flutter,dart,php,cpp,css,discord,dynamodb,express,figma,firebase,github,html,java,js,mongodb,mysql,nodejs,postman,py,react,firebase,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,flutter,dart,php,cpp,css,c#,dynamodb,express,figma,firebase,github,html,java,js,mongodb,mysql,nodejs,postman,py,react,firebase,vscode&perline=14" />
   </a>
 </p>
 ---
