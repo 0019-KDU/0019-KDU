@@ -3,7 +3,7 @@
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0019-kdu&label=Profile%20views&color=0e75b6&style=flat" alt="0019-kdu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0019-kdu" alt="0019-kdu" /></a> </p>
+
 
 <table align="center">
 <tr border="none">
