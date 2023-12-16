@@ -1,7 +1,9 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Chirantha ravishka</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=scar1109&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0019-kdu&label=Profile%20views&color=0e75b6&style=flat" alt="0019-kdu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0019-kdu" alt="0019-kdu" /></a> </p>
 
 <table align="center">
 <tr border="none">
