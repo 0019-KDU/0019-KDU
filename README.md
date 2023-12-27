@@ -12,7 +12,7 @@
   <a href="https://github.com/0019-KDU">
     <img src="https://img.shields.io/badge/Github-0019--KDU-grey?style=flat&logo=github&logoColor=white" alt="Github Badge" />
   </a>
-  <a href="https://discord.com/invite/wNVTbVy5">
+  <a href="https://discord.com/invite/EFn54AmY">
     <img src="https://img.shields.io/badge/Discord-chiraxvi%231234-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
   <a href="https://0019-kdu.github.io/Protfolio/">
