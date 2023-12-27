@@ -2,6 +2,23 @@
 <h1 align="center">Hi 👋, I'm Chirantha ravishka</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0019-kdu&label=Profile%20views&color=0e75b6&style=flat" alt="0019-kdu" /> </p>
+<p align="center">
+  <a href="mailto:chirantharavishka@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-chirantharavishka@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/chirantha-ravishka-92b4b6272">
+    <img src="https://img.shields.io/badge/Linkedin-chirantha--ravishka-0072b1?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge" />
+  </a>
+  <a href="https://github.com/0019-KDU">
+    <img src="https://img.shields.io/badge/Github-0019--KDU-grey?style=flat&logo=github&logoColor=white" alt="Github Badge" />
+  </a>
+  <a href="https://discord.com/invite/wNVTbVy5">
+    <img src="https://img.shields.io/badge/Discord-chiraxvi%231234-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord Badge" />
+  </a>
+  <a href="https://0019-kdu.github.io/Protfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-0019--KDU-2648ff?style=flat-square&logo=google-chrome" alt="Website Badge" />
+  </a>
+</p>
 
 
 
@@ -29,28 +46,7 @@
 </tr>
 </table>
 
----
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/ravinduck.dewayananalage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravinduck.dewayananalage" height="30" width="40" /></a>
-<a href="https://instagram.com/@cr_0019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cr_0019" height="30" width="40" /></a>
-</p>
-
----
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,flutter,dart,php,cpp,css,dynamodb,express,figma,firebase,github,html,java,js,mongodb,mysql,nodejs,postman,py,react,firebase,vscode,c#&perline=14" />
-  </a>
-</p>
 
 ---
 
