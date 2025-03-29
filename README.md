@@ -8,7 +8,7 @@
 
 # 🚀 About Me
 
-Hi, I'm **[Your Name]**, a passionate **DevOps and Cloud enthusiast** with a strong focus on **backend development** and **data engineering**. I love building **cloud-native applications**, designing **microservices architectures**, and working with **scalable, real-time data pipelines**.
+Hi, I'm Chirantha Ravishka, a passionate **DevOps and Cloud enthusiast** with a strong focus on **backend development** and **data engineering**. I love building **cloud-native applications**, designing **microservices architectures**, and working with **scalable, real-time data pipelines**.
 
 ## 🔹 What I Do
 - Build **microservices** and scalable backend systems  
