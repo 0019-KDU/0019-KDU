@@ -8,15 +8,19 @@
 
 # 🚀 About Me
 
-Hi, I'm Chirantha Ravishka, a passionate **DevOps and Platform Engineer** with a background in **backend development**. I started my journey building backend systems and still actively work on backend projects. Now I focus on **cloud-native infrastructure**, **platform engineering**, and designing **scalable microservices architectures**.
+I'm a DevOps & Platform Engineer with a foundation in backend development, building scalable systems from code to cloud.
 
-## 🔹 What I Do
-- Design and implement **DevOps pipelines** (CI/CD, Kubernetes, Docker)
-- Build and manage **cloud infrastructure** and platform solutions
-- Develop **microservices** and scalable backend systems
-- Automate infrastructure with **IaC** (Terraform, Ansible)
+I specialize in designing cloud-native infrastructure, Kubernetes-based platforms, and automated CI/CD pipelines that enable teams to ship faster and more reliably.
 
-💡 I'm always eager to **learn new technologies** and push the boundaries of innovation. Let's build something amazing! 🚀
+## 🚀 What I Work On
+- 🔹 CI/CD automation (GitHub Actions, GitLab CI)
+- 🔹 Kubernetes & container orchestration
+- 🔹 Cloud infrastructure (GCP / AWS)
+- 🔹 Infrastructure as Code (Terraform, Ansible)
+- 🔹 Microservices & scalable backend systems
+- 🔹 Observability & monitoring stacks
+
+💡 I believe great platforms empower developers to innovate without friction. Let's build reliable, scalable systems together.
 
 
 - ⚡ Fun fact: My first line of code was not "Hello World!"
