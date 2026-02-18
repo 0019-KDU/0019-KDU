@@ -1,9 +1,9 @@
 ## Hey 👋, I'm Chirantha Ravishka
 
-[![Gmail Badge](https://img.shields.io/badge/-chirantharavishka@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chirantharavishka@gmail.com)](mailto:chirantharavishka@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-chirantha--ravishka-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirantha-ravishka-92b4b6272)](https://www.linkedin.com/in/chirantha-ravishka-92b4b6272)
-[![Github Badge](https://img.shields.io/badge/-0019--KDU-grey?style=flat&logo=github&logoColor=white&link=https://github.com/0019-KDU)](https://github.com/0019-KDU)
-[![Discord Badge](https://img.shields.io/badge/Discord-chiraxvi%231234-7289DA?style=flat&logo=discord&logoColor=white&link=https://discord.com/invite/EFn54AmY)](https://discord.com/invite/EFn54AmY)
+<a href="mailto:chirantharavishka@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="gmail" /></a>
+<a href="https://www.linkedin.com/in/chirantha-ravishka-92b4b6272"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin" /></a>
+<a href="https://github.com/0019-KDU"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" /></a>
+<a href="https://discord.com/invite/EFn54AmY"><img src="https://img.icons8.com/color/48/discord-logo.png" height="30" alt="discord" /></a>
 
 
 # 🚀 About Me
@@ -100,6 +100,4 @@ I specialize in designing cloud-native infrastructure, Kubernetes-based platform
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45" alt="postman logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="45" alt="linkedin logo" />
 </div>
